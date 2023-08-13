@@ -7,7 +7,7 @@
 | Sudo      | Permite ejecutar comandos o tareas como si fuera un super usuario   | sudo systemctl restart    |
 |--------------|--------------|--------------|
 | Clear      | Limpia la pantalla  | Clear   |
-|-----------------------|----------------------------------------------------------------|-------------------------------------------------------------------------|
+|---------------------------|--------------------------------------------------------------|--------------------------------------------------------|
 | ls -l    | Enseña directorios y archivos con información como: Tamaño, permisos, grupos  | ls /home   |
 | sudo apt-get update      | Actualiza los paquetes ya disponibles  | sudo apt-get update   |
 | sudo apt install     | Instala paquetes que no trae por defecto el sistema operativo | sudo apt install python   |
