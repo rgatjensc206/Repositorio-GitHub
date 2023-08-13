@@ -3,7 +3,7 @@
 | Comando | Funcion | Ejemplo |
 |--------------|--------------|--------------|
 | Cat      | Con este comando se puede ver el contenido de un archivo    | Cat > archivo.txt     |
-
+|---------------------|---------------------------------------------------------|--------------------------------------------|
 | Sudo      | Permite ejecutar comandos o tareas como si fuera un super usuario   | sudo systemctl restart    |
 
 | Clear      | Limpia la pantalla  | Clear   |
